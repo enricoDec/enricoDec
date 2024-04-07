@@ -7,6 +7,7 @@ I'm doing my master degree in applied computer science at the [HTW Berlin](https
 
 ![Java](https://img.shields.io/badge/-Java-F6F8FA?style=flat&logo=openjdk&logoColor=000000)&nbsp;
 ![C](https://img.shields.io/badge/-C-F6F8FA?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-F6F8FA?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F6F8FA?style=flat&logo=git)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-F6F8FA?style=flat&logo=postgresql)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-F6F8FA?style=flat&logo=spring)&nbsp;
