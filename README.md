@@ -15,6 +15,7 @@ I'm doing my master degree in applied computer science at the [HTW Berlin](https
 ![HTML](https://img.shields.io/badge/-HTML-F6F8FA?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-F6F8FA?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-F6F8FA?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-F6F8FA?style=flat&logo=docker)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
